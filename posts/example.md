@@ -1,3 +1,4 @@
+# Blog title
 ---
 title: Example article title
 published: false
